@@ -5,7 +5,7 @@ gems: [jekyll-paginate]
 destination: _site
 
 # SEO settings
-url: http://isir-ecom.github.io
+url: https://qlinsey.github.io/ptest/
 baseurl: ""
 # baseurl: ""
 
