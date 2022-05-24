@@ -1,0 +1,99 @@
+markdown    : kramdown
+highlighter : pygments
+gems: [jekyll-paginate]
+
+destination: _site
+
+# SEO settings
+url: http://isir-ecom.github.io
+baseurl: ""
+# baseurl: ""
+
+
+# Author settings
+author:
+  name      : Vachik Dave
+  url       : https://www.linkedin.com/in/vachik-dave
+
+
+# Site settings
+title: ISIR-eCom
+email: vachik.dave25@gmail.com
+description: "The first international workshop on Interactive and Scalable Information Retrieval methods for eCommerce."
+
+# Build settings
+# permalink: pretty
+theme: jekyll-theme-minimal
+
+
+# Team names, titles and social links
+people:
+- name: Vachik Dave
+  pic: 1
+  position: Walmart Global Tech
+  url: https://www.linkedin.com/in/vachik-dave
+
+- name: Linsey Pang
+  pic: 2
+  position: Walmart Global Tech
+  url: https://www.linkedin.com/in/linsey-pang-50590450
+
+- name: Xiquan Cui
+  pic: 3
+  position: The Home Depot
+  url: https://www.linkedin.com/mwlite/in/xiquan-cui-%E5%B4%94%E5%96%9C%E6%B3%89-2486b115
+
+- name: Lingfei Wu
+  pic: 4
+  position: JD.COM Silicon Valley Research Center
+  url: https://sites.google.com/a/email.wm.edu/teddy-lfwu/
+
+- name: Hamed Zamani
+  pic: 5
+  position: University of Massachusetts Amherst
+  url: http://cs.umass.edu/~zamani
+
+- name: George Karypis
+  pic: 6
+  position: University of Minnesota Twint-cities
+  url: http://glaros.dtc.umn.edu/
+
+
+# Team names, titles and social links
+panel:
+ - name: Stephen Guo
+   pic: 1
+   position: Director@ads, Walmart Global Tech - Moderator
+   url: https://www.linkedin.com/in/stephen-guo-34515347
+   
+ - name: Max Harper
+   pic: 2
+   position:  Senior Applied Research Scientist at Amazon 
+   url: https://www.linkedin.com/in/maxharper
+ 
+ - name: Pranam Kolari
+   pic: 3
+   position: VP@search, Walmart Global Tech
+   url: https://www.linkedin.com/in/pranamkolari
+   
+ - name: Rui Li
+   pic: 4
+   position:  ML Engineer Manager at Pinterest
+   url: https://www.linkedin.com/in/rui-li-4044a81/
+
+
+ - name: Kexin Xie
+   pic: 5
+   position:  VP & ML Principal Architect at Salesforce
+   url: https://www.linkedin.com/in/kexinxie
+
+ - name: Lingfei Wu
+   pic: 6
+   position: Principal Scientist at JD.COM Silicon Valley Research Center
+   url: https://sites.google.com/a/email.wm.edu/teddy-lfwu/
+
+#  - name: Mohit Sharma
+#    pic: 7
+#    position: Principal Scientist at JD.COM Silicon Valley Research Center
+#    url: https://sites.google.com/a/email.wm.edu/teddy-lfwu/
+
