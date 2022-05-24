@@ -6,7 +6,7 @@ destination: _site
 
 # SEO settings
 url: https://qlinsey.github.io/ptest/
-baseurl: ""
+baseurl: "https://qlinsey.github.io/ptest/"
 # baseurl: ""
 
 
